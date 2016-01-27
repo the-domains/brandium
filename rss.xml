@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Consultoria em desenvolvimento de marca.]]></title>
         <description><![CDATA[Consultoria em desenvolvimento de marca.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brandium/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 18:17:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 18:43:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brandium/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.kriando.com.br/imgs_marcas/kriando_1358975699.jpg">]]></description>
-            <link>undefined9ab77988-ae07-4266-aa7f-1bb6176d4f05/index.html</link>
+            <title><![CDATA[Delicari]]></title>
+            <description><![CDATA[<article><h1>Delicari</h1><p>Marca Delicari</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/049d288a-3d96-4ed4-8a03-953ab545a086.jpg"></article>]]></description>
+            <link>https://thegrid.ai/brandium/9ab77988-ae07-4266-aa7f-1bb6176d4f05/index.html</link>
             <guid isPermaLink="false">9ab77988-ae07-4266-aa7f-1bb6176d4f05</guid>
-            <pubDate>Wed, 27 Jan 2016 18:17:56 GMT</pubDate>
+            <pubDate>Wed, 27 Jan 2016 18:41:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
