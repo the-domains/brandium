@@ -1,0 +1,28 @@
+name: brandium
+favicon: null
+layout_spectrum: 0.7275067237205803
+typography_spectrum: 0.6625980953685939
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8498137432616204
+  lightness: 0.7215655359905213
+  saturation: 0.25929109123535454
+  rhythmicContrast: 0.9761002431623638
+purpose: []
